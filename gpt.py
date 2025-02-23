@@ -4,7 +4,7 @@ openai.api_key = "api-key"
 
 import openai
 response = openai.chat.completions.create(
-    model="gpt-4o",
+    model="gpt-3",
     messages=[
         {"role": "user", "content": "Hello, ChatGPT!"}
     ],
