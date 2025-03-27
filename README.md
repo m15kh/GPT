@@ -8,7 +8,7 @@ A simple Python script for interacting with OpenAI's GPT-4o model via API.
 - OpenAI Python package
 
 ## Installation
-
+ 
 1. Clone this repository
 2. Install required packages:
 ```
